@@ -1,7 +1,7 @@
 # grunt-preload-assets
 
 > A Grunt plugin for generating preload assets manifest files.	
-> Supports [PreloadJS](http://www.createjs.com/#!/PreloadJS), [PxLoader](http://thinkpixellab.com/pxloader/), JSON, JS, CSV, and unlimited support for multiple formats by using [underscore templates](http://www.2ality.com/2012/06/underscore-templates.html).
+> Supports [PreloadJS](http://www.createjs.com/#!/PreloadJS), [PxLoader](http://thinkpixellab.com/pxloader/), JSON, JS, CSV, and unlimited support for multiple formats by using [lodash templates](https://lodash.com/docs/#template).
 > By [@gunta](https://github.com/gunta/).
 
 
